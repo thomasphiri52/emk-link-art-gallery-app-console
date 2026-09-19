@@ -1,0 +1,75 @@
+[
+  {
+    "created_at": "2026-09-10T03:16:39.747886+00:00",
+    "reason": "manual",
+    "entries": 6,
+    "catalog": [
+      {
+        "title": "After the Rain",
+        "artist": "Maya Okafor",
+        "category": "Painting",
+        "year": 2024,
+        "status": "Live",
+        "url": "https://example.com/emk/after-the-rain",
+        "image": "https://images.unsplash.com/photo-1549490349-8643362247b5?auto=format&fit=crop&w=1000&q=85",
+        "accent": "Moss / ochre / dusk",
+        "description": "A quiet study of light returning to a city garden."
+      },
+      {
+        "title": "Soft Machinery",
+        "artist": "Jon Bell",
+        "category": "Digital",
+        "year": 2025,
+        "status": "Live",
+        "url": "https://example.com/emk/soft-machinery",
+        "image": "https://images.unsplash.com/photo-1551913902-c92207136625?auto=format&fit=crop&w=1000&q=85",
+        "accent": "Signal / cobalt / chrome",
+        "description": "A digital composition about systems that learn to breathe."
+      },
+      {
+        "title": "Tidal Memory",
+        "artist": "Nia Mensah",
+        "category": "Photography",
+        "year": 2023,
+        "status": "Review",
+        "url": "https://example.com/emk/tidal-memory",
+        "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1000&q=85",
+        "accent": "Salt / silver / blue hour",
+        "description": "Photographs gathered at the edge of a changing shoreline."
+      },
+      {
+        "title": "Common Ground",
+        "artist": "The EMK Collective",
+        "category": "Installation",
+        "year": 2025,
+        "status": "Live",
+        "url": "https://example.com/emk/common-ground",
+        "image": "https://images.unsplash.com/photo-1561839561-b13bcfe95249?auto=format&fit=crop&w=1000&q=85",
+        "accent": "Clay / linen / conversation",
+        "description": "An open-ended installation built from shared materials."
+      },
+      {
+        "title": "Electric Bloom",
+        "artist": "Samira Cole",
+        "category": "Print",
+        "year": 2022,
+        "status": "Live",
+        "url": "https://example.com/emk/electric-bloom",
+        "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=1000&q=85",
+        "accent": "Ink / neon / petal",
+        "description": "A print series where botanical forms meet bright interference."
+      },
+      {
+        "title": "Small Weather",
+        "artist": "Kofi Armah",
+        "category": "Sculpture",
+        "year": 2024,
+        "status": "Draft",
+        "url": "https://example.com/emk/small-weather",
+        "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&w=1000&q=85",
+        "accent": "Stone / wire / air",
+        "description": "Small objects holding the feeling of a larger atmosphere."
+      }
+    ]
+  }
+]
